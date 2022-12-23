@@ -1,4 +1,4 @@
-FROM renovate/renovate:34.69.0
+FROM renovate/renovate:34.70.4
 
 FROM ubuntu:18.04
 
